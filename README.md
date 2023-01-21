@@ -1,1 +1,1 @@
-# frontend-mentro-QR-Code
+# frontend-mentor-QR-Code
